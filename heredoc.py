@@ -8,5 +8,10 @@ Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et
 Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 """.strip()
 
-print(content)
+print(repr(content))
+
+content_two = '\nNullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo.\n\nVestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in.\n\nInteger posuere erat a ante venenatis dapibus posuere velit aliquet.'
+
+print(content_two)
+
 
