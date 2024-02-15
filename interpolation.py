@@ -21,3 +21,9 @@ Me
 
 print(greeting)
 
+greeting = "Hi {0}, thank you for learning this {1}.".format(name, product)
+
+print(greeting)
+print("The sum of 1 + 2 is {0}".format(1+2))
+
+
