@@ -10,7 +10,8 @@ players = {
 #print(players.values())
 #print(players.items())
 
-print(list(players.values())[1])
+player_names = list(players.copy().values())
+print(player_names)
 
 teams = {
 	"astros": ["Altuve","Correa","Bregman"],
@@ -18,4 +19,14 @@ teams = {
 	"yankees": ["Judge","Stanton"],
 	"red sox": ["Price", "Betts"]
 }
+
+team_groupings = teams.items()
+print(list(team_groupings)[0][1][0])
+
+#delete items
+#del teams['astros']
+removed_team = teams.pop('astros', 'No team found by that name')
+
+
+print(removed_team)
 
