@@ -12,3 +12,14 @@ print(sub_heading)
 print(content)
 print(status)
 
+post += (['tag1','tag2'],)
+
+_,_,_,_,tags = post
+print(tags) 
+
+#Solution
+tags_b = ['python','coding','tutorial']
+post += (tags_b,)
+
+print(post[-1][1])
+
