@@ -32,6 +32,6 @@ teams['red sox'] = ['Price','Betts']
 print(teams)
 
 #queries
-featured_team = teams.get('mets', 'No featured team')
+#featured_team = teams.get('mets', 'No featured team')
 featured_team = teams.get('yankees', 'No featured team')
 print(featured_team)
