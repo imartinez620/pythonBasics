@@ -25,3 +25,8 @@ astros = teams["astros"]
 print(astros) 
 print(teams["angels"]) 
 print(teams["yankees"]) 
+
+#add new pair key:valors
+teams['red sox'] = ['Price','Betts']
+
+print(teams)
