@@ -20,3 +20,5 @@ post = tuple(post)
 
 print(post)
 
+mi_variable = "El operador (=) puede asigna esta cadena a la variable 'mi_variable'."
+print(mi_variable)
