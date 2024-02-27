@@ -6,7 +6,7 @@ greeting('Peter')
 greeting()
 
 
-def some_function(collection = []):
+def some_function(collection = []): #mala práctica lista por defecto
 	collection.append(1)
 	print(id(collection))
 	return collection
