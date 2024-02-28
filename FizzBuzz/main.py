@@ -25,3 +25,4 @@ def fizz_buzz(max_number):
 		
 
 fizz_buzz(100)
+
