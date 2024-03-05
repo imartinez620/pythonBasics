@@ -1,0 +1,751 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mi",
+				"mi_objeto"
+			],
+			[
+				"Mi",
+				"MiClase"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"get_c",
+				"get_cars"
+			],
+			[
+				"forma",
+				"formatter"
+			],
+			[
+				"t",
+				"total"
+			],
+			[
+				"i",
+				"inv_two"
+			],
+			[
+				"g",
+				"greeting"
+			],
+			[
+				"cu",
+				"cuadrados"
+			],
+			[
+				"st",
+				"str_link"
+			],
+			[
+				"fin",
+				"final_index"
+			],
+			[
+				"r",
+				"r_last_index"
+			],
+			[
+				"f",
+				"final_index"
+			],
+			[
+				"l",
+				"last_idex"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"a",
+				"auth"
+			],
+			[
+				"gu",
+				"guessing_game"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"he",
+				"heading_type"
+			],
+			[
+				"ta",
+				"tags_two"
+			],
+			[
+				"q",
+				"query_two"
+			],
+			[
+				"p",
+				"process_dictionary"
+			],
+			[
+				"m",
+				"milk_float"
+			],
+			[
+				"te",
+				"team_groupings"
+			],
+			[
+				"co",
+				"container_list"
+			],
+			[
+				"w",
+				"var_weights"
+			],
+			[
+				"v",
+				"var_weights"
+			],
+			[
+				"we",
+				"weighted_lottery"
+			],
+			[
+				"new",
+				"new_tags"
+			],
+			[
+				"sal",
+				"salice_obj"
+			],
+			[
+				"sl",
+				"salice_obj"
+			],
+			[
+				"nu",
+				"num_of_sales"
+			],
+			[
+				"so",
+				"sorted_list"
+			],
+			[
+				"num",
+				"number_of_index_of_mediana"
+			],
+			[
+				"fo",
+				"formated_tags"
+			],
+			[
+				"ne",
+				"nested_lists"
+			],
+			[
+				"u",
+				"user_list"
+			],
+			[
+				"pr",
+				"product_cost"
+			],
+			[
+				"c",
+				"commission_rate"
+			],
+			[
+				"n",
+				"new_product"
+			],
+			[
+				"my_s",
+				"my_sentence"
+			],
+			[
+				"my_n",
+				"my_new_string"
+			],
+			[
+				"my_f",
+				"my_first_word_uppercase"
+			],
+			[
+				"my",
+				"my_string"
+			],
+			[
+				"my_",
+				"my_new_number_ten"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"con",
+				"content_two"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"nes",
+				"nested_idx"
+			],
+			[
+				"F",
+				"Funciones_Matematicas"
+			],
+			[
+				"fun",
+				"funcionDecoradora"
+			],
+			[
+				"empl",
+				"empleado3"
+			],
+			[
+				"empla",
+				"empleado1"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"ca",
+				"cargo"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"mic",
+				"miConexion"
+			],
+			[
+				"miC",
+				"miCursor"
+			],
+			[
+				"menu",
+				"menuBorrar"
+			],
+			[
+				"me",
+				"menuBorrar"
+			],
+			[
+				"boton",
+				"botonDelete"
+			],
+			[
+				"boto",
+				"botonUpdate"
+			],
+			[
+				"id",
+				"idBox"
+			],
+			[
+				"pa",
+				"pady"
+			],
+			[
+				"men",
+				"menuBar"
+			],
+			[
+				"imga",
+				"image"
+			],
+			[
+				"radio",
+				"radioButton1"
+			],
+			[
+				"opera",
+				"operator"
+			],
+			[
+				"op",
+				"operador"
+			],
+			[
+				"numb",
+				"numbersOnScreen"
+			],
+			[
+				"but",
+				"button4"
+			],
+			[
+				"numbers",
+				"numbersOnScreen"
+			],
+			[
+				"bu",
+				"button7"
+			],
+			[
+				"agr",
+				"guardarPersonasEnFichero"
+			],
+			[
+				"arch",
+				"archivo"
+			],
+			[
+				"perso",
+				"Personas"
+			],
+			[
+				"pi",
+				"pickle"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"V",
+				"Vehiculo"
+			],
+			[
+				"car",
+				"cargando"
+			],
+			[
+				"es",
+				"estado"
+			],
+			[
+				"che",
+				"chequeo"
+			],
+			[
+				"ch",
+				"chequeoInterno"
+			],
+			[
+				"di",
+				"divide"
+			],
+			[
+				"tie",
+				"tiene_punto"
+			],
+			[
+				"ti",
+				"tiene_arroba"
+			],
+			[
+				"sa",
+				"salario_presidente"
+			],
+			[
+				"mi_",
+				"mi_diccionario"
+			],
+			[
+				"cuad",
+				"cuadroApellido"
+			],
+			[
+				"cua",
+				"cuadroNombre"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"lis",
+				"listaDePersonas"
+			],
+			[
+				"mo",
+				"mostarPersonas"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"des",
+				"desplazamientoVehiculo"
+			],
+			[
+				"d",
+				"desplazamiento"
+			],
+			[
+				"E",
+				"ErrorNumeroNegatico"
+			],
+			[
+				"try",
+				"try"
+			],
+			[
+				"_",
+				"__"
+			],
+			[
+				"ty",
+				"Type"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pap",
+				"Package Control: Advanced Install Packages"
+			],
+			[
+				"pypenv",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"installa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/infoi/.virtualenvs/Python-YgRk51Qp"
+	],
+	"file_history":
+	[
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/requests_project/jordan_solution.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/list_comprehension.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/pruebas.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/requests_project/main.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/cars.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/invoice.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/requests_exersice.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/numpy_basics.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/python_import/main.py",
+		"/C/Users/infoi/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/Curso.sublime-project",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/prueba2.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/requests.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/Requests/main.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/numpy.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/python_import/helper.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/conditionals.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/conditionals ternary operator.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/conditional operators.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/check value included.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/compound conditionals.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/remove first and last in list.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/functions.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/functions_returns.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/named_function_argument.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/unpacking.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/keyword_arguments.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/all_argument_combined.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/funciones_landa.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/FizzBuzz/main.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/functions_default_argument.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/HTML heading generator.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/forinloop.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/while.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/break.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/ranges2.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/alphabet.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/loops.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/interpolation.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/conjuntos_set2.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/conjuntos_set.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/zip_tuplez.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/tuples_3.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/url_query.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Checkpoint 4/checkpoint_4.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/tuples_slice.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/histogram.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/list_and_dictionaries.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/dictionaries_working.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/dictionary.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/lottery.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/salice.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/ranges.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/functions_of_list.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/nested_list.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/mediana.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/sorts_2.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/tuplas.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/tuplas2.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/lists_deletes.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/lists.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/manual_exponent.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/math_exercises.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/decimal_vs_float.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/assigment_operators.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/order_operations.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/operators.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/numbers_type.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Checkpoint 3/Checkpoint_3.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/is_alpha.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/partition_function.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/strip.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/variables.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/search_in_sentences.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/dynamic_reducer.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/heredoc.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/the quick brown fox jumped over the lazy dog.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/comments.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/str.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/matrix.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/basics.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/Defender.py",
+		"/C/Users/infoi/OneDrive/Documentos/Curso Lanbide/Python/galaxian.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Gráficos/PrimeraInterface.pyw",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Pruebas juegos/Time.pyw",
+		"/C/home/infoi/.bashrc.cmd",
+		"/C/home/infoi/.bash_history",
+		"/C/home/infoi/.zshrc",
+		"/C/home/infoi/.bash",
+		"/C/Users/infoi/OneDrive/Escritorio/testdir/.bashrc",
+		"/C/users/infoi/onedrive/escritorio/testdir/my__file.rb",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/EjemploDocTest3.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/EjemploDocTest.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/EjemploDocTest2.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Filter.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Map.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/ExpresionesRegulares.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/FunciónDecoradora.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/PrácticaGuiadaBBDD/Main.pyw",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Gráficos/PrácticaMenús.pyw",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Gráficos/CheckButton.pyw",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Gráficos/RadioButton.pyw",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Gráficos/PrácticaCalculadora.pyw",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Gráficos/MiEntry.pyw",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Gráficos/MiFramLabel.pyw",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/InfoPermanente.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Serializacion.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/SerializacionLectura.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/SerializacionObjetos.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Vehiculo.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Coche.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Modulos/Modulo_Vehiculos.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/ManejoArchivos.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/setup.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Uso_Modulo.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Modulos/Calculos/Funciones_Matematicas.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Modulos/Prueba_Funciones.py",
+		"/C/Users/infoi/OneDrive/Escritorio/Uso_Modulo.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Modulos/Calculos/__init__.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Modulos/Uso_Vehiculo.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Modulos/Funciones_Matematicas.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Modulos/Uso_Modulo.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Strings.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Poliformismo.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/OperadorIn.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/PracticaFor.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/IntroduceEdad.py",
+		"/C/Users/infoi/OneDrive/Documentos/CursoPython/Bucles.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"r"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 318.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Curso.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
